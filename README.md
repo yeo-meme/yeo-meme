@@ -1,5 +1,5 @@
 ## 👋 Hi I'm @yeo-meme
-I'm working as Android App
+I'm working on an Android app
 
 <!--
 **yeo-meme/yeo-meme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
